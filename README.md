@@ -1,4 +1,9 @@
-## Ask your pdf
+## Ask your pdf 📄
+
+**Ask your PDF: Interactive chat with PDF**
+
+A tool that allows you to have conversations with your PDF documents. Powered by OpenAI, simply upload your PDF, ask questions, and receive instant answers. No more scrolling, just effortless interaction with your PDF.
+
 
 ### Tech Stack
 - Open AI
