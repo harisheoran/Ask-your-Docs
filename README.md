@@ -1,4 +1,4 @@
-## Ask your pdf 📄
+## PDF Pulse 📄
 
 **Ask your PDF: Interactive chat with PDF**
 
