@@ -28,4 +28,5 @@ pip install -r requirements.txt
     ```
     streamlit run main.py
     ```
+- Now upload your PDF and ask any question.
 
