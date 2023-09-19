@@ -10,7 +10,15 @@ A tool that allows you to have conversations with your PDF documents. Powered by
 - Langchain
 
 ### How to use?
-- Clone and install all the required packages from requirements.txt
+- Activate virtual environment
+```
+python3 -m venv venv
+source ./venv/bin/activate
+```
+- Clone and install all the required packages
+```
+pip install -r requirements.txt
+```
 - Make a .env file and paste your Open AI API key 
     ```
     OPENAI_API_KEY=
