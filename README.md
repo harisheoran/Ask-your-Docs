@@ -8,6 +8,7 @@ A tool that allows you to have conversations with your PDF documents. Powered by
 ### Tech Stack
 - Open AI
 - Langchain
+- Streamlit
 
 ### How to use?
 - Activate virtual environment
