@@ -41,7 +41,7 @@ def main():
         embeddings = OpenAIEmbeddings()
         db = FAISS.from_texts(chunks, embeddings)
         
-        user_query = ui.text_input("Ask a question.")
+        user_query = ui.text_input("Ask a question from your PDF.")
         if user_query:
             found_doc = db.similarity_search(user_query)
             llm = OpenAI()
