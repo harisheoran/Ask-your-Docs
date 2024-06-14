@@ -18,7 +18,7 @@ def extract_text_from_pdf(my_pdf):
 
 def main():
     load_dotenv()
-    ui.set_page_config(page_title="Ask your docs")
+    ui.set_page_config(page_title="Ask your PDFs")
     ui.header("Ask your pdfs")
     my_pdf = ui.file_uploader("Upload your PDF", type="pdf")
     
